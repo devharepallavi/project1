@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(154, 33, 33);
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img
+{
+    width: 200px;
+    height:200px;
+    margin: 30px auto;
+    display: block;
+
+}
+.banner
+{
+    background-color:black;
+    padding-bottom: 30px;
+}
+p
+{
+    text-align: center;
+    color: white;
+    font-size: 80px;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+}
